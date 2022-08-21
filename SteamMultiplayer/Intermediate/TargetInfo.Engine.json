@@ -1,0 +1,19 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealHeaderTool",
+			"Path": "D:\\UE_5.0\\Engine\\Source\\Programs\\UnrealHeaderTool\\UnrealHeaderTool.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "UnrealEditor",
+			"Path": "D:\\UE_5.0\\Engine\\Source\\UnrealEditor.Target.cs",
+			"Type": "Editor"
+		},
+		{
+			"Name": "UnrealGame",
+			"Path": "D:\\UE_5.0\\Engine\\Source\\UnrealGame.Target.cs",
+			"Type": "Game"
+		}
+	]
+}
