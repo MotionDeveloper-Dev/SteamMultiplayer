@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\project\\ue5projects\\steammultiplayer\\source\\steammultiplayer\\steammultiplayergamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\project\\ue5projects\\steammultiplayer\\intermediate\\build\\win64\\steammultiplayereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\project\\ue5projects\\steammultiplayer\\intermediate\\build\\win64\\unrealeditor\\development\\steammultiplayer\\definitions.steammultiplayer.h",
+            "e:\\project\\ue5projects\\steammultiplayer\\source\\steammultiplayer\\steammultiplayergamemodebase.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "e:\\project\\ue5projects\\steammultiplayer\\intermediate\\build\\win64\\unrealeditor\\inc\\steammultiplayer\\steammultiplayergamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

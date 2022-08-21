@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Project\\UE5Projects\\SteamMultiplayer\\Source\\SteamMultiplayer\\SteamMultiplayer.Build.cs",
+		"E:\\Project\\UE5Projects\\SteamMultiplayer\\Source\\SteamMultiplayer.Target.cs",
+		"E:\\Project\\UE5Projects\\SteamMultiplayer\\Source\\SteamMultiplayerEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
