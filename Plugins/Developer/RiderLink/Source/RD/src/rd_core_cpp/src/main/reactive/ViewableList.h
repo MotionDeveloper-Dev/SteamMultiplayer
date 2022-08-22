@@ -21,8 +21,7 @@ public:
 	using Event = typename IViewableList<T>::Event;
 
 private:
-	using WA = typename std::allocator_traits<A>::template rebind_alloc<Wrapper<T>>;
-
+	using WA = typename A::template rebind<Wrapper<T>>::other;
 	using data_t = std::vector<Wrapper<T>, WA>;
 	mutable data_t list;
 	Signal<Event> change;

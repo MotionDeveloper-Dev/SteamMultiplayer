@@ -27,7 +27,8 @@ private:
 	using WK = typename IViewableMap<K, V>::WK;
 	using WV = typename IViewableMap<K, V>::WV;
 	using OV = typename IViewableMap<K, V>::OV;
-	using PA = typename std::allocator_traits<VA>::template rebind_alloc<std::pair<Wrapper<K>, Wrapper<V>>>;
+
+	using PA = typename VA::template rebind<std::pair<Wrapper<K>, Wrapper<V>>>::other;
 
 	Signal<Event> change;
 

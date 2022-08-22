@@ -1,34 +1,34 @@
-E:\Project\GitHub\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base\RdReactiveBase.cpp
+E:\Projects\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base\RdReactiveBase.cpp
 /I .
-/I E:\Project\GitHub\SteamMultiplayer\Plugins\Developer\RiderLink\Source
-/I E:\Project\GitHub\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\src
-/I E:\Project\GitHub\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp
-/I E:\Project\GitHub\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main
-/I E:\Project\GitHub\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp
-/I E:\Project\GitHub\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main
-/I E:\Project\GitHub\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util
-/I E:\Project\GitHub\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\src\rd_gen_cpp\src
-/I E:\Project\GitHub\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\thirdparty
-/I E:\Project\GitHub\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include
-/I E:\Project\GitHub\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl
-/I E:\Project\GitHub\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include
-/I E:\Project\GitHub\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include
-/I E:\Project\GitHub\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include
-/I E:\Project\GitHub\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\thirdparty\clsocket\src
-/I E:\Project\GitHub\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\thirdparty\CTPL\include
+/I E:\Projects\SteamMultiplayer\Plugins\Developer\RiderLink\Source
+/I E:\Projects\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\src
+/I E:\Projects\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp
+/I E:\Projects\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main
+/I E:\Projects\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp
+/I E:\Projects\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main
+/I E:\Projects\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util
+/I E:\Projects\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\src\rd_gen_cpp\src
+/I E:\Projects\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\thirdparty
+/I E:\Projects\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include
+/I E:\Projects\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl
+/I E:\Projects\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include
+/I E:\Projects\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include
+/I E:\Projects\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include
+/I E:\Projects\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\thirdparty\clsocket\src
+/I E:\Projects\SteamMultiplayer\Plugins\Developer\RiderLink\Source\RD\thirdparty\CTPL\include
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
 /I ThirdParty\mimalloc\include
-/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE"
+/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"E:\Project\GitHub\SteamMultiplayer\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\Definitions.h"
-/Fo"E:\Project\GitHub\SteamMultiplayer\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\RdReactiveBase.cpp.obj"
-/sourceDependencies E:\Project\GitHub\SteamMultiplayer\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\RdReactiveBase.cpp.json
+/FI"E:\Projects\SteamMultiplayer\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\Definitions.h"
+/Fo"E:\Projects\SteamMultiplayer\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\RdReactiveBase.cpp.obj"
+/sourceDependencies E:\Projects\SteamMultiplayer\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\Development\RD\RdReactiveBase.cpp.json
 /Zc:inline
 /nologo
 /Oi

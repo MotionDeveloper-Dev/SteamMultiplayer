@@ -7,6 +7,6 @@
 		"RiderGameControl": "UnrealEditor-RiderGameControl.dll",
 		"RiderLink": "UnrealEditor-RiderLink.dll",
 		"RiderLogging": "UnrealEditor-RiderLogging.dll",
-		"RiderShaderInfo": "UnrealEditor-RiderShaderInfo.dll"
+		"RiderShaderInfoDump": "UnrealEditor-RiderShaderInfoDump.dll"
 	}
 }
